@@ -1,0 +1,15 @@
+{
+  "name": "jakepatzer-skills",
+  "description": "Personal Claude Code skills. /trunk: run a tree of sessions — a root for the big picture and /branch sessions per task, with path names and summaries routed back to the parent.",
+  "author": {
+    "name": "Jake Patzer",
+    "url": "https://github.com/jakepatzer"
+  },
+  "repository": "https://github.com/jakepatzer/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "sessions",
+    "branch",
+    "workflow"
+  ]
+}

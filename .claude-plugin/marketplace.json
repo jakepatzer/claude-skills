@@ -1,0 +1,15 @@
+{
+  "name": "jakepatzer",
+  "owner": {
+    "name": "Jake Patzer",
+    "url": "https://github.com/jakepatzer"
+  },
+  "description": "Jake Patzer's Claude Code skills.",
+  "plugins": [
+    {
+      "name": "jakepatzer-skills",
+      "source": "./",
+      "description": "Personal Claude Code skills, starting with /trunk (session trees built on /branch)."
+    }
+  ]
+}
